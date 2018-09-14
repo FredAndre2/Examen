@@ -17,7 +17,7 @@ public class PrecioRam extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_precio_ram);
         tabla = findViewById(R.id.tabla);
-        celulares.clear();
+
         celulares = metodos.obtener_datos();
 
         for (int i = 0; i < celulares.size(); i++) {
@@ -36,5 +36,6 @@ public class PrecioRam extends AppCompatActivity {
 
             tabla.addView(fila);
         }
+        celulares.clear();
     }
 }
