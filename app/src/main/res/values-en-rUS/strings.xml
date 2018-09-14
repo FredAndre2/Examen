@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="registrar">"To register "</string>
+    <string name="vercelulares">See cell phones</string>
+    <string name="reportes">reports</string>
+    <string name="descripcion">Description</string>
+    <string name="modelo">"Model "</string>
+    <string name="color">"Color "</string>
+    <string name="precio">Price</string>
+    <string name="memoria">Memory capacity</string>
+    <string name="marca">"Brand "</string>
+    <string name="SO">"OS "</string>
+    <string name="nuevo">New</string>
+    <string name="guardar">Save</string>
+    <string name="codigo">Code</string>
+    <string name="Error1">The price can not be zero</string>
+    <string name="Error2">This field can not go empty</string>
+    <string name="promedio_nokia">Average price Nokia</string>
+    <string name="cantidad_apple_negro">Quantity of Black Apple Cellphones</string>
+    <string name="precioyram">Samsung CellPhone data</string>
+    <string name="promedio">Average</string>
+    <string name="cantidad_apples">CellPhone\'s quantity</string>
+</resources>

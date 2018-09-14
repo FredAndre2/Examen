@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="registrar">Registrar</string>
+    <string name="vercelulares">Ver celulares</string>
+    <string name="reportes">reportes</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="modelo">Modelo</string>
+    <string name="color">Color</string>
+    <string name="precio">Precio</string>
+    <string name="memoria">Capacidad de memoria</string>
+    <string name="marca">Marca</string>
+    <string name="SO">Sistema Operativo</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="guardar">Guardar</string>
+    <string name="codigo">Codigo</string>
+    <string name="Error1">El precio no puede ser cero</string>
+    <string name="Error2">El campo no puede ir vacio</string>
+    <string name="promedio_nokia">Precio promedio Nokia</string>
+    <string name="cantidad_apple_negro">Cant. Celulares Apple negros</string>
+    <string name="precioyram">Datos celular Samsung</string>
+    <string name="promedio">Promedio</string>
+    <string name="cantidad_apples">Cantidad celulares</string>
+    <string-array name="opciones_principal">
+        <item>@string/registrar</item>
+        <item>@string/vercelulares</item>
+        <item>@string/reportes</item>
+    </string-array>
+    <string-array name="opciones_reportes">
+        <item>@string/promedio_nokia</item>
+        <item>@string/cantidad_apple_negro</item>
+        <item>@string/precioyram</item>
+    </string-array>
+</resources>
