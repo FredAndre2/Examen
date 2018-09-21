@@ -21,4 +21,5 @@
     <string name="precioyram">Samsung CellPhone data</string>
     <string name="promedio">Average</string>
     <string name="cantidad_apples">CellPhone\'s quantity</string>
+    <string name="Error3">No records found</string>
 </resources>

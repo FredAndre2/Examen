@@ -27,6 +27,10 @@ public class Metodos {
                 numero_celulares= numero_celulares +1;
             }
         }
+        if(numero_celulares==0){
+            return 0;
+        }
+
       promedio = suma/numero_celulares;
         return promedio;
     }

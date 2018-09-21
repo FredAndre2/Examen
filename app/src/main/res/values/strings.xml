@@ -20,6 +20,7 @@
     <string name="precioyram">Datos celular Samsung</string>
     <string name="promedio">Promedio</string>
     <string name="cantidad_apples">Cantidad celulares</string>
+    <string name="Error3">No se encuentran registros</string>
     <string-array name="opciones_principal">
         <item>@string/registrar</item>
         <item>@string/vercelulares</item>
